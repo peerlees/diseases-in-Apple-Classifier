@@ -24,6 +24,12 @@ operation : One apple from the conveyor belt, Arduino infrared proximity detecti
             Up and down verticals, cameras detect apples in 30fps, yielding average values.
             And determine the quality and classification.
 
+<img width="729" alt="스크린샷 2021-04-25 오후 5 31 40" src="https://user-images.githubusercontent.com/82746560/115986669-4b5a3500-a5ec-11eb-93d2-15c360dc32e3.png">
+
+Algorithm
+
+<img width="695" alt="스크린샷 2021-04-25 오후 5 31 18" src="https://user-images.githubusercontent.com/82746560/115986719-93795780-a5ec-11eb-8abb-b0f5479fcacb.png">
+
 
 -datasets
 
@@ -34,5 +40,3 @@ taken by myself
 
 -requirements
 
-
-<img width="729" alt="스크린샷 2021-04-25 오후 5 31 40" src="https://user-images.githubusercontent.com/82746560/115986669-4b5a3500-a5ec-11eb-93d2-15c360dc32e3.png">
