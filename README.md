@@ -21,7 +21,7 @@ train  : AlexeyAB darknet YOLOv3, YOLOv4, YOLOv5s
 detection : Arduino infrared proximity detection sensor & jetson nano with logitech streamcam
 
 operation : One apple from the conveyor belt, Arduino infrared proximity detection sensor detect apple and stop.
-            Up and down verticals, cameras detect apples in 30fps, yielding average values.
+            Up and down verticals, cameras detect apples in 30fps, yielding average values. ( Inference Time: 0.09s )
             And determine the quality and classification.
 
 <img width="729" alt="스크린샷 2021-04-25 오후 5 31 40" src="https://user-images.githubusercontent.com/82746560/115986669-4b5a3500-a5ec-11eb-93d2-15c360dc32e3.png">
