@@ -60,7 +60,8 @@ AlexeyAB darknet YOLOv3, YOLOv4, YOLOv5s
 
 -processing
 
-arduino
+3d printing & arduino
+![캡처](https://user-images.githubusercontent.com/82746560/116024562-6cbd2e80-a689-11eb-88a1-708d33e2b951.PNG)
 
 
 ![그림1](https://user-images.githubusercontent.com/82746560/116024267-cc670a00-a688-11eb-8539-50d13605f10f.jpg)
