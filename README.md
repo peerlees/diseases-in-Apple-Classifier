@@ -52,11 +52,11 @@ taken by myself
 
 -train result
 
-YOLOv3
+AlexeyAB darknet YOLOv3, YOLOv4, YOLOv5s
 
-YOLOv4
+![5](https://user-images.githubusercontent.com/82746560/116022974-37fba800-a686-11eb-83ae-8f2669063cd3.PNG)
+![6](https://user-images.githubusercontent.com/82746560/116022978-3a5e0200-a686-11eb-92b2-70f7f0e30dee.PNG)
 
-YOLOv5s
 
 -processing
 
