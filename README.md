@@ -46,8 +46,7 @@ taken by myself
 
 초기에 xml파일로 데이터 가공을 진행하였으나 darknet에서 txt파일의 labeling이 필요한 것을 확인하여 xml to txt로 바꿈.
 
-<img src="https://user-images.githubusercontent.com/82746560/116021867-07b30a00-a684-11eb-9651-11632b768855.PNG" width="500" height="500" >
-<img width="500" height="500" src="https://user-images.githubusercontent.com/82746560/116021878-0d105480-a684-11eb-8beb-f3557be2cd50.PNG" >
+![4](https://user-images.githubusercontent.com/82746560/116022482-3ed5eb00-a685-11eb-9a98-a3132a300751.PNG)
 
 
 -train result
