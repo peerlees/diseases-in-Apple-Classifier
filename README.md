@@ -44,9 +44,10 @@ taken by myself
 
 3 classes : bruised, unhealthy, healthy
 
-초기에 xml파일로 데이터 가공을 진행하였으나 darknet에서 txt파일의 labeling이 필요한 것을 확인하여 xml to txt로 바꿈.
-
 ![4](https://user-images.githubusercontent.com/82746560/116022482-3ed5eb00-a685-11eb-9a98-a3132a300751.PNG)
+
+초기에 xml파일로 데이터 가공을 진행하였으나 darknet에서 txt파일의 labeling이 필요한 것을 확인하여 xml to txt로 바꿈.
+<img width="500" src="https://user-images.githubusercontent.com/82746560/116022558-61680400-a685-11eb-8026-f125afbce8a3.PNG">
 
 
 -train result
